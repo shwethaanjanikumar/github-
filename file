@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<head>
+<title><h1> GIT AND GITLAB FUNDAMENTALS</h1></title>
+<h2> Learning Objecives</h2>
+</head>
+<body>
+<p> Clone repository
+Create branch
+Commit changes
+Push changes
+Create Merge Requests
+Resolve conflicts
+</p>
+</body>
+</html>
